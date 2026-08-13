@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+  color: white;
+}
+.nav {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(31, 30, 30);
+}
+.b {
+  color: greenyellow;
+}
+@media (min-width: 700px) {
+  .nav {
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 20px;
+    gap: 20px;
+  }
+}

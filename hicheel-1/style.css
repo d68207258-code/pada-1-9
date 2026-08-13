@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(#a83232, #0cb3f5);
+}
+.card {
+  background-color: #9cf50c;
+}
+#id {
+  background-color: #a83232;
+}
+.card h2 {
+  color: #5028ed;
+}
+#id h2 {
+  color: #fefffe;
+}
